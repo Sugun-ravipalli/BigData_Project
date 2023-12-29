@@ -10,7 +10,8 @@ Accidents caused by large trucks remain one of the leading causes of injuries an
 - Eventually, assess and anticipate risk factors related to drivers based on several factors such as events, total distance travelled, average speed, and mileage.
 
 # Architecture
-![image](https://github.com/Sugun-ravipalli/BigData_Project/assets/145236879/f05bd7b7-1953-4f2d-8faf-1519066b8195)
+![image](https://github.com/Sugun-ravipalli/BigData_Project/assets/145236879/ffe79d85-f7f1-4d45-afee-b67c3e99ad5f)
+
 
 # Data Lineage
 ![image](https://github.com/Sugun-ravipalli/BigData_Project/assets/145236879/d33ee955-7c8d-43af-a64d-bb3f106b508f)
